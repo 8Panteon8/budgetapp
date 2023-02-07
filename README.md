@@ -33,3 +33,8 @@ Build app on Vue:
 ```shell
 npm run build 
 ```
+Lints and fixes file:
+```shell
+npm run lint
+```
+
