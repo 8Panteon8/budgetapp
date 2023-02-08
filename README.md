@@ -18,6 +18,11 @@ When choosing type of value `INCOME` or `OUTCOME` in dropdown form value will be
 - [Vue.js](https://ru.vuejs.org/index.html)
 - [Vuex](https://vuex.vuejs.org)
 
+## Screenshot
+
+<img width="572" alt="image" src="https://user-images.githubusercontent.com/113831614/217527807-54aa7860-3cc5-4db4-b7a7-88c216fc3aa5.png">
+
+
 ---
 **How to make it work?**
 
